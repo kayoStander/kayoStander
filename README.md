@@ -1,6 +1,5 @@
-### Hi there 👋, Im a LUA/LUAU programmer
+### Hi there 👋, Im a LUA/LUAU programmer who is looking for more knowledge everyday
 currently learning C# and in the future Python/Typescript
-I’m looking for more knowledge everyday
 <!--
 **kayoStander/kayoStander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
