@@ -1,5 +1,5 @@
 ### Hi there 👋, Im a LUA/LUAU programmer who is looking for more knowledge everyday
-currently learning C# and in the future Python/Typescript
+currently learning Python and in the future C#/Typescript
 <!--
 **kayoStander/kayoStander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
