@@ -1,5 +1,5 @@
 Hi there 👋
-LUA,PYTHON,C#,C++
+mainly doing graphics programming, but some other things 4fun
 <!--
 **kayoStander/kayoStander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
