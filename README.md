@@ -1,5 +1,5 @@
 <div align="center"><br>
-  Hi, im heck, i do some grawpichs programming 
+  Hi, im heck, i do some grapichs programming 
 </div>
 
 <!-- <div><br> -->
