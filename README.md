@@ -3,7 +3,7 @@
 </div>
 
 <div><br>
-  <div> 
+  <div align="center"> 
     <img align="center" alt="..." height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
   </div>
   <div align="center" valign="top"> 
