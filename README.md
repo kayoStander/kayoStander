@@ -11,4 +11,7 @@
     <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
     <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+  <div align="center"> 
+    Vulkan (mainly) and OpenGL.
+  </div>
 </div>
