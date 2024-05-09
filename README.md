@@ -2,7 +2,7 @@
   Hi, im heck, i do some grawpichs programming 
 </div>
 
-<div><br>
+<!-- <div><br> -->
   <div align="center"> 
     <img align="center" alt="..." height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
   </div>
@@ -14,4 +14,4 @@
   <div align="center"> 
     Vulkan (mainly) and OpenGL.
   </div>
-</div>
+<!-- </div> -->
