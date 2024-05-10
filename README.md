@@ -14,5 +14,6 @@
   </div>
   <div align="center"> 
     Vulkan (mainly) and OpenGL.
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoStander&layout=compact" />
   </div>
 <!-- </div> -->
