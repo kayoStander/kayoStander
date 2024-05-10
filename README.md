@@ -14,7 +14,5 @@
   </div>
   <div align="center"> 
     Vulkan (mainly) and OpenGL.
-
-    <!-- [![HECK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoStander&show_icons=true&theme=tokyonight)](https://github.com/kayoStander) -->
   </div>
 <!-- </div> -->
