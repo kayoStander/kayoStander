@@ -18,6 +18,6 @@
   </div>
   <hr>
   <div align="center"> 
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoStander&layout=compact" />
+    <!--<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoStander&layout=compact" />-->
   </div>
 <!-- </div> -->
