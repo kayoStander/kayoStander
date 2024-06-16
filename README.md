@@ -11,7 +11,7 @@
     <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
     <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   </div>
   <div align="center"> 
     Vulkan (mainly) and OpenGL.
