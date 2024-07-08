@@ -1,6 +1,6 @@
 ### As a Tarnished who wishes to stand before the Elden Ring and become Elden Lord, I am accumulating knowledge. To be all-knowing.
 
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![giphy](https://github.com/kayoStander/kayoStander/assets/59280080/4ce56359-9030-44d2-b691-b5f09b64f86e) 
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![giphy](https://github.com/kayoStander/kayoStander/assets/59280080/4ce56359-9030-44d2-b691-b5f09b64f86e) 
 
 ```bash
 heck@heck> whoami
