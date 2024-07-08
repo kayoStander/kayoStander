@@ -1,23 +1,17 @@
-<div align="center"><br>
-  Hi, im heck, i do some grapichs programming 
-</div>
+```text
 
-<!-- <div><br> -->
-  <div align="center"> 
-    <img align="center" alt="..." height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
-  </div>
-  <div align="center" valign="top"> 
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="..." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  </div>
-  <div align="center"> 
-    Vulkan (mainly) and OpenGL.
-  </div>
-  <hr>
-  <div align="center"> 
-    <!--<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoStander&layout=compact" />-->
-  </div>
-<!-- </div> -->
+### <img src="https://giphy.com/embed/6i6DHjicGKMMHzws2a" width="50">
+
+💬 Programming Languages: 
+C++                            █████████████████░░░░░░░░   60.20 % 
+Haskell                        ██████████░░░░░░░░░░░░░░░   35.04 % 
+Lua                            ████░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+C                              ██░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+
+🔥 Editors: 
+Neovim                         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux (Ubuntu)                 ██████████████████████░░░   84.95 %
+Windows (11)                   ███░░░░░░░░░░░░░░░░░░░░░░   15.05 %
+```
